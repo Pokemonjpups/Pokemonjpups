@@ -6,4 +6,4 @@ One open source project I'm working on often is [2012-roblox](https://github.com
 
 My discord is beak#2142 
 
-*Note: (You cannot send me a friend request for privacy reasons - shoot me a message on twitter and I can add you on discord from there)*
+*Note: For privacy reasons, you cannot send me a friend request - shoot me a message on twitter and I can add you on discord from there*
