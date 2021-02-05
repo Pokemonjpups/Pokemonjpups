@@ -4,4 +4,6 @@ I'm decently proficient in Javascript, Typescript, and Lua. I'm currently learni
 
 One open source project I'm working on often is [2012-roblox](https://github.com/pokemonjpups/2012-roblox), which is a web app designed to copy Roblox's website from the early 2012 era.
 
-My discord is beak#1337
+My discord is beak#2142 
+
+*Note: (You cannot send me a friend request for privacy reasons - shoot me a message on twitter and I can add you on discord from there)*
